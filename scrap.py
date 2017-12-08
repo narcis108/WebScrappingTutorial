@@ -48,4 +48,3 @@ if __name__ == '__main__':
                 create_pages(page, page_number)
     except Exception:
         print('A aparut o eroare. Nu cumva nu ai introdus niciun argument in linia de comada? :)')
-        s
